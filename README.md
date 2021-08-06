@@ -21,3 +21,4 @@ The Infineon CYW920835M2EVB-01 Evaluation kit enables you to evaluate and develo
 ### Additional Information
 
 Max UART baud rate is 3M.
+If using PUART at baud rate 3M, configure for 2 stop-bits.
